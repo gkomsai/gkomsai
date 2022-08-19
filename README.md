@@ -22,7 +22,7 @@ https://camo.githubusercontent.com/2e4de630c9f8c9fa5032e663eaed4e993a5da3ac64783
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gkomsai&icon=5&color=1)](https://visitcount.itsvg.in)
+[![]![image](https://user-images.githubusercontent.com/101813593/185560934-e9ab31b6-5542-4633-93a8-3ae580f2b86a.png))
 
 
 <!---
