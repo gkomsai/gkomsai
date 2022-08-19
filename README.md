@@ -24,7 +24,7 @@
 
 ![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=489&height=55&lines=Thanks++For+Visiting+My+Profile.)](https://git.io/typing-svg)
 <!---
 gkomsai/gkomsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
