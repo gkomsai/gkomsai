@@ -1,4 +1,4 @@
-# Hello Fellow < Developers/ >! <img src="https://user-images.githubusercontent.com/101813593/185606895-6fce581f-2f3c-45b2-9c1f-a4f949cf3ffd.gif" width="100"  height="48">
+# Hello Fellow < Developers/ >! <img src="https://user-images.githubusercontent.com/101813593/185606895-6fce581f-2f3c-45b2-9c1f-a4f949cf3ffd.gif" width="41"  height="38">
 
 
 
