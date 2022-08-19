@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gkomsai&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![image](https://user-images.githubusercontent.com/101813593/185564385-15e4d45e-0407-4667-801b-b2b35ed7961d.png)
+![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
 
 
 <!---
