@@ -1,4 +1,5 @@
-# Hello Fellow < Developers/ >! ![Hi](https://user-images.githubusercontent.com/101813593/185606416-b10d31d6-95a2-40b8-8408-b071f2b299b6.gif)
+# Hello Fellow < Developers/ >! ![wave](https://user-images.githubusercontent.com/101813593/185606895-6fce581f-2f3c-45b2-9c1f-a4f949cf3ffd.gif)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&pause=1000&color=29F72E&center=true&vCenter=true&width=1001&height=101&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Full+Stack+Developer+;Specialized+In+MERN+Stack.)](https://git.io/typing-svg)
 
