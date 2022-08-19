@@ -1,9 +1,10 @@
 - # 💫 About Me:
-https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif Hi, I’m Gautam Kumar.<br> I’m interested in quality coding and exploring new technologies.<br>🌱 I’m currently learning full-Stack web Development(MERN Stack) Course at Masai School.<br>💞️ I’m looking to collaborate on pojects based on MERN stack.<br> 📫 You can reach out to me on my email "gkomsai788@gmail.com".
+![image](https://user-images.githubusercontent.com/101813593/185559876-5ad8e051-f187-4f58-b25d-c63e6895bd1a.png)
+ Hi, I’m Gautam Kumar.<br> I’m interested in quality coding and exploring new technologies.<br>🌱 I’m currently learning full-Stack web Development(MERN Stack) Course at Masai School.<br>💞️ I’m looking to collaborate on pojects based on MERN stack.<br> 📫 You can reach out to me on my email "gkomsai788@gmail.com".
 
 
 ## 🌐 Socials:
-https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-kumar-9bba54222/) 
 
 # 💻 Tech Stack:
