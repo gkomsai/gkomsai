@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Gautam Kumar.<br>👀 I’m interested in quality coding and exploring new technologies.<br>🌱 I’m currently learning full-Stack web Development(MERN Stack) Course at Masai School.<br>💞️ I’m looking to collaborate on pojects based on MERN stack.<br> 📫 You can reach out to me on my email "gkomsai788@gmail.com".
+![code](https://user-images.githubusercontent.com/101813593/185568276-4d0373ff-46f3-4b29-a5fa-fa0ccaa65e9f.gif)
 
 
 ## 🌐 Socials:
