@@ -1,3 +1,8 @@
+# Hello Fellow < Developers/ >! ![Hi](https://user-images.githubusercontent.com/101813593/185606416-b10d31d6-95a2-40b8-8408-b071f2b299b6.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&pause=1000&color=29F72E&center=true&vCenter=true&width=1001&height=101&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Full+Stack+Developer+;Specialized+In+MERN+Stack.)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 👋 Hi, I’m Gautam Kumar.<br>👀 I’m interested in quality coding and exploring new technologies.<br>🌱 I’m currently learning full-Stack web Development(MERN Stack) Course at Masai School.<br>💞️ I’m looking to collaborate on pojects based on MERN stack.<br> 📫 You can reach out to me on my email "gkomsai788@gmail.com".
 <br>
