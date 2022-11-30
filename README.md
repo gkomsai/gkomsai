@@ -23,6 +23,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gkomsai&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomsai&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<br></br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" />
+<hr/>
+
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
   <img alt="gautam-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gkomsai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
