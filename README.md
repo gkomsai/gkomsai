@@ -14,6 +14,8 @@
 - 👨‍🎓 Check out my **[Resume Here](https://drive.google.com/file/d/1qPW5SX6npn9WuiWwYKATBtwVheKsUx3H/view)**
 - 📫 You can reach out to me on my email "gkomsai788@gmail.com".
 <br>
+
+
 ![code](https://user-images.githubusercontent.com/101813593/185568276-4d0373ff-46f3-4b29-a5fa-fa0ccaa65e9f.gif)
 
 
@@ -68,13 +70,15 @@
 
 <br/>
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=gkomsai&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gkomsai&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomsai&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<br></br>
+<br/>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" />
-<!-- <hr/> -->
+
 
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
   <img alt="gautam-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gkomsai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
