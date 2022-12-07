@@ -77,7 +77,7 @@
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" /> -->
 
 
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
