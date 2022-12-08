@@ -80,9 +80,13 @@
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" /> -->
 
 
+
+<!-- 
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
   <img alt="gautam-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gkomsai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
+ -->
+
 
 
 ## 🏆 GitHub Trophies
