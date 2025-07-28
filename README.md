@@ -1,101 +1,119 @@
 # Hello Fellow < Developers/ >! <img src="https://user-images.githubusercontent.com/101813593/185606895-6fce581f-2f3c-45b2-9c1f-a4f949cf3ffd.gif" width="41"  height="38">
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&pause=1000&color=29F72E&center=true&vCenter=true&width=1001&height=101&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Full+Stack+Developer+;Specialized+In+MERN+Stack.)](https://git.io/typing-svg)
-
-
-# 🙋‍♂️ About Me
-- 👋 Hi, I’m Gautam Kumar.<br>
-- 💞️ I’m interested in quality coding and exploring new technologies.<br>
-- 🌱 I’m currently learning full-Stack web Development(MERN Stack) Course at Masai School.<br>
-- 👀 I’m looking to work as **Full Stack Web Developer**.<br>
-- 🔭 Know more about me **[Portfolio](https://gautam--portfolio.vercel.app/)**
-- 👨‍🎓 Check out my **[Resume Here](https://drive.google.com/file/d/1qPW5SX6npn9WuiWwYKATBtwVheKsUx3H/view)**
-- 📫 You can reach out to me on my email "gkomsai788@gmail.com".
-<br>
-
-
 ![code](https://user-images.githubusercontent.com/101813593/185568276-4d0373ff-46f3-4b29-a5fa-fa0ccaa65e9f.gif)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=36\&pause=1000\&color=29F72E\&center=true\&vCenter=true\&width=1001\&height=101\&lines=Welcome+To+My+GitHub+Profile!;Senior+Full+Stack+Developer+%7C+MERN+Expert;Building+Scalable+Web+Apps+%7C+Team+Mentor)](https://git.io/typing-svg)
 
-## 🌐 Let's Connect...
-[![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/gautam-kumar-9bba54222/) 
-[![Portfolio](https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465)](https://gautam--portfolio.vercel.app/) 
-[![Gmail](https://user-images.githubusercontent.com/101813593/185589447-6fb65c33-987a-4ecc-b467-03333934276b.png)](mailto:gkomsai788@gmail.com)
+---
 
-# 💻 Tech Stack:
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" align="center" alt="react-router" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
- <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+## 👨‍💻 About Me
 
-<br/>
-<br/>
- <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootStrap"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
- <br/>
-<div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" align="center" alt="socket.io" />
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-  
-   <br/>
-<br/>
- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
- </div>
-</div>
+* 👋 Hi, I’m **Gautam Kumar**, a Senior Software Developer with 3+ years of hands-on experience in designing and building scalable full-stack web applications.
+* 🚀 Currently working remotely with a US-based startup, leading critical parts of the product.
+* 🧠 Passionate about clean architecture, solving real-world problems, and mentoring developers.
+* 📌 Conducted **50+ technical interviews** to help grow a strong dev team.
+* 🤝 Open to **collaborating on meaningful open-source projects** and contributing to the developer community.
+* 🔍 Explore more about me in my **[Portfolio](https://gautam--portfolio.vercel.app/)**
+* 📄 Check my **[Resume](https://drive.google.com/file/d/1qPW5SX6npn9WuiWwYKATBtwVheKsUx3H/view)**
+* 📧 Feel free to reach out at **[gkomsai788@gmail.com](mailto:gkomsai788@gmail.com)**
 
-<br/>
-# 📊 GitHub Stats:
+---
+
+## 💼 What I Bring to the Table
+
+* 💡 Full-stack expertise in **React.js, Node.js, Hapi.js, MongoDB, Redux, and Ant Design**
+* 🧩 Modular architecture and component-based development
+* 🔄 Regular code reviews, mentoring, and hands-on leadership
+* 🧰 End-to-end feature design: APIs + Frontend UIs
+* 🧠 Learning-first mindset: always exploring new tools & practices
+
+---
+
+## 🛠️ Technologies I Use Regularly
+
+### 🚀 Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge\&logo=antdesign\&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra--ui-%234ED1C5.svg?style=for-the-badge\&logo=chakraui\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🧩 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-ff4088?style=for-the-badge\&logo=hapi\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+
+### 🧪 Dev Tools
+
+![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge\&logo=jira\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge\&logo=cursor\&logoColor=white)
+
+### 🧰 Platforms & Hosting
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=whit)
+
+### 🌱 Exploring / Basic Familiarity
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge\&logo=grafana\&logoColor=white)
+![AWS Services](https://img.shields.io/badge/AWS%20Core%20Services-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/gautam-kumar-9bba54222/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2318413C?style=for-the-badge\&logo=ionic\&logoColor=white)](https://gautam--portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gkomsai788@gmail.com)
+
+---
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gkomsai&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gkomsai&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomsai&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<br/>
 
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkomsai&theme=2077" width="100%" /> -->
-
-
-
 <!-- 
 <a href="https://github.com/gkomsai/github-readme-activity-graph">
   <img alt="gautam-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gkomsai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
  -->
 
-
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gkomsai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+## ✍️ Quote for Devs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=gkomsai&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ![sun](https://user-images.githubusercontent.com/101813593/185565292-eb111ecc-95fe-4734-9e5d-0f968c08c8e2.gif)
